@@ -38,4 +38,6 @@ class EmployeesController extends Controller
         return redirect()  -> route('emp-index');
 
     }
+
+  
 }
